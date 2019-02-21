@@ -1,0 +1,8 @@
+.app-conatiner {
+  display: flex;
+  justify-content:space-between;
+  border : 1px sold red
+}
+.movies-cont{
+  flex:3
+}

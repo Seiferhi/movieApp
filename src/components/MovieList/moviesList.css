@@ -1,0 +1,5 @@
+.movielist-container{
+    display:flex;
+    flex-wrap: wrap;
+    flex: 3
+}
